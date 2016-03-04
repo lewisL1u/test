@@ -1,0 +1,57 @@
+    1  start
+    2  git help
+    3  dir
+    4  ls
+    5  mkdir myFirst
+    6  ls
+    7  cd myFirst/
+    8  ls
+    9  pwd
+   10  vim hello.c
+   11  git init
+   12  ls
+   13  git add
+   14  git config --global user.name dudou6@gmail.com
+   15  ls
+   16  git config --global user.email dudou6@gmail.com
+   17  history
+   18  git config --global user.name "Lewis"
+   19  ls
+   20  echo "# test"
+   21  echo "# test" >> README.md
+   22  git init
+   23  get add README.md 
+   24  git add README.md
+   25  get commit -m "first commit"
+   26  git commit -m "first commit"
+   27  ls
+   28  vm hello.c
+   29  vim hello.c
+   30  ls
+   31  git remote add origin https"//github.com/lewisL1u/test.git
+git push -u origin master
+clear
+   32  ls
+   33  git remote add origin https"//github.com/lewisL1u/test.git
+   34  git push -u origin master
+   35  ls
+   36  whoami
+   37  ls
+   38  less README.md 
+   39  ls
+   40  git add
+   41  ls
+   42  git add hello.c
+   43  git commit
+   44  git commit
+   45  modify the hello.c file
+   46  ls
+   47  vim hello.c 
+   48  git status
+   49  git add hello.c
+   50  git commit
+   51  ls
+   52  git checkout
+   53  git checkout hello.c
+   54  history 
+   55  history > MyHistory
